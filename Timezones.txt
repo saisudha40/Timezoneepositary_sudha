@@ -1,0 +1,13 @@
+The time in the UK is 24/02/2019 20:24:00 and the time in timezone Amsterdam
+ is 24/02/2019 21:24:00
+The time in the UK is 24/02/2019 20:24:00 and the time in timezone Minsk
+ is 24/02/2019 21:24:00
+The time in the UK is 24/02/2019 20:24:00 and the time in timezone Samoa is 24/02/2019 21:24:00
+The time in the UK is 24/02/2019 20:24:00 and the time in timezone London
+ is 24/02/2019 21:24:00
+The time in the UK is 24/02/2019 20:24:00 and the time in timezone Dublin
+ is 24/02/2019 21:24:00
+The time in the UK is 24/02/2019 20:24:00 and the time in timezone Hawaii
+ is 24/02/2019 21:24:00
+The time in the UK is 24/02/2019 20:24:00 and the time in timezone Alaska is 24/02/2019 21:24:00
+The time in the UK is 24/02/2019 20:24:00 and the time in timezone Arizona is 24/02/2019 21:24:00
