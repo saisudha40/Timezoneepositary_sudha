@@ -20,7 +20,7 @@ namespace Timezone
                 {
                     string str;
                     str = string.Empty;
-                    StreamWriter sw = new StreamWriter(@"C:\Users\User\Downloads\Timezone-master\Timezone-master\Timezone\Timezones.txt");
+                    StreamWriter sw = new StreamWriter(@"Timezones.txt");
 
 
                     List<Tuple<string, string>> lTimes = fileReader.Read();
